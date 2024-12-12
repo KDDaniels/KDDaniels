@@ -17,7 +17,7 @@
   <br />
   <h2>:white_circle: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,git,github,replit,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=blender,git,github,replit,vscode,ai&perline=6" />
   </a>
 </div>
 <div align="center">
