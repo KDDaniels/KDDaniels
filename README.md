@@ -6,7 +6,7 @@
 <div align="center">
   <h2>:white_circle: Main Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js&perline=4" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py&perline=4" />
   </a>
   <br />
   <h2>:white_circle: Embedded Systems / Frameworks</h2>
